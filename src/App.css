@@ -1,0 +1,23 @@
+body {
+  width: 97%;
+  margin: auto;
+}
+
+a {
+  color: red;
+  font-family: helvetica;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  color: black;
+}
+
+.p-card-content {
+  text-align: justify !important;
+}
